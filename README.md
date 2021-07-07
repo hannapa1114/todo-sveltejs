@@ -1,4 +1,4 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+### sveltejs로 만들어 본 todo app (feat.Heropy)
 
 ---
 
